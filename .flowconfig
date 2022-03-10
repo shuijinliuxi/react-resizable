@@ -6,6 +6,7 @@
 .*/node_modules/express/.*
 .*/node_modules/serve-index/.*
 <PROJECT_ROOT>/build/.*
+.*/**/malformed_package_json/package.json
 
 [include]
 
