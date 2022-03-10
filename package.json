@@ -63,7 +63,7 @@
   },
   "dependencies": {
     "prop-types": "15.x",
-    "react-draggable": "^4.0.3"
+    "react-draggable": "git+https://github.com/shuijinliuxi/react-draggable"
   },
   "peerDependencies": {
     "react": ">= 16.3"
